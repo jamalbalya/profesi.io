@@ -1,0 +1,43 @@
+1653833259223	geckodriver	INFO	Listening on 127.0.0.1:52097
+1653833262292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jamal\\AppData\\Local\\Temp\\rust_mozprofile3YFlT8"
+1653833263643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jamal\\AppData\\Local\\Temp\\rust_mozprofile3YFlT8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52098/devtools/browser/872559f2-96e8-4899-99cd-fd32b2191bf3
+1653833270160	Marionette	INFO	Listening on port 52121
+Read port: 52121
+1653833270264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1653833310296	Marionette	INFO	Stopped listening on port 52121
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1653833403542	geckodriver	INFO	Listening on 127.0.0.1:52195
+1653833406601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jamal\\AppData\\Local\\Temp\\rust_mozprofileCMVvo1"
+1653833408055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jamal\\AppData\\Local\\Temp\\rust_mozprofileCMVvo1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52196/devtools/browser/12911624-ce11-46c3-93a8-76edb441bc67
+1653833414733	Marionette	INFO	Listening on port 52219
+Read port: 52219
+1653833415004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-company.profesi.io"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1653833456971	Marionette	INFO	Stopped listening on port 52219
